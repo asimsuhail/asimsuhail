@@ -1,4 +1,4 @@
-![logo]([https://github.com/asimsuhail/asimsuhail/blob/main/Github%20Banner.png](https://github.com/asimsuhail/asimsuhail/blob/main/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png))
+![logo](https://github.com/asimsuhail/asimsuhail/blob/main/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 <h1 align="center">Hi 👋, I'm Asim Suhail</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" 
